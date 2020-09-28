@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra đăng nhập với Username quá dài</description>
+   <name>Test_case_05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58d0eb6e-65bf-41f4-9690-6869d91d21ee</testCaseGuid>
+</TestCaseEntity>

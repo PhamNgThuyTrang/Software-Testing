@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra đăng nhập với Username sai và mật khẩu sai</description>
+   <name>Test_case_01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92e57e14-5dd5-421c-aa0b-d8da14d31af1</testCaseGuid>
+</TestCaseEntity>
